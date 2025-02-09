@@ -1,0 +1,453 @@
+%PDF-1.7
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /OpenAction 11 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [21 0 R 19 0 R 3 0 R] /Count 3 >>
+endobj
+
+3 0 obj
+<< /Type /Page 
+   /Parent 2 0 R 
+   /MediaBox [0 0 512 592] 
+   /Annots [7 0 R 13 0 R 15 0 R 16 0 R 25 0 R 26 0 R 90 0 R 4 0 R 92 0 R 100 0 R] >>
+endobj
+
+21 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 512 592]
+  /Annots [23 0 R]
+  /Contents 22 0 R
+  /Resources <<
+    /Font <<
+      /F1 200 0 R
+      /F2 210 0 R
+    >>
+  >>
+>>
+endobj
+
+
+19 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 512 492]
+  /Annots []
+  /Contents 20 0 R
+  /Resources <<
+    /Font <<
+      /F1 200 0 R
+      /F2 210 0 R
+    >>
+  >>
+>>
+endobj
+
+200 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+
+210 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-bold >>
+endobj
+
+20 0 obj
+<< /Length 150 >>
+stream
+BT
+/F2 14 Tf
+230 450 Td
+(Abstract) Tj
+/F1 12 Tf
+-170 -30 Td
+(This groundbreaking study investigates the universal human behavior of downloading) Tj
+-20 -15 Td
+(PDFs with  full intention  to read them only to let  them rot  in the  "Downloads" folder for) Tj
+0 -15 Td
+(eternity. Through  a series  of highly  unscientific  methods,  including  staring  at our own) Tj
+0 -15 Td
+(unread PDFs  in shame, we  conclude  that the  average PDF has  a higher  chance of being) Tj
+0 -15 Td
+(forwarded to another unsuspecting victim than actually being opened.) Tj
+20 -30 Td
+(Our  research  also  explores  the  psychological  effects  of  hoarding  academic papers,) Tj
+-20 -15 Td
+(manuals,  and  eBooks, revealing  that  PDFs  are not merely  documents but digital trophies) Tj
+0 -15 Td 
+(-proof  that  we  once  had  intellectual  ambition.  We  propose  a  revolutionary  solution: ) Tj
+0 -15 Td 
+(a browser extension that consume any PDF you  download, saving you from ever opening it.) Tj
+/F2 12 Tf
+0 -40 Td 
+(Keywords:) Tj
+/F1 12 Tf
+60 0 Td 
+(PDF, Procrastination, Digital Hoarding, Ctrl+S Disorder, Theoretical Reading) Tj
+ET
+endstream
+endobj
+
+22 0 obj
+<< /Length 150 >>
+stream
+BT
+/F2 16 Tf
+145 550 Td
+(A Comprehensive Study on PDF) Tj
+-35 -20 Td
+(Why Nobody Reads What They Download) Tj
+ET
+BT
+/F2 12 Tf
+140 150 Td
+(Prof. John "Ctrl+S" McDocument, PhD(PDF)) Tj
+/F2 16 Tf
+-40 -50 Td
+(The Global Institute of Unopened PDFs (GIUP)) Tj
+ET
+endstream
+endobj
+
+23 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [155 250 355 450]
+   /T (img) /FT /Ff 65536
+   /AP << /N 24 0 R >>
+   /Border [0 0 2]
+   /BS << /W 2 /S /D >>
+   /BC [0 0 1]
+>>
+endobj
+
+24 0 obj
+<< /Length 150 >>
+stream
+q                   % q and Q to save/restore graphics state
+0.3 0.3 0.3 rg
+0 0 0 RG            % Set stroke color to black
+2 w                 % Set line width to 2
+0.5 0.5 200 200 re S  % Draw rectangle (adjust coordinates to match your button size)
+/F2 9 Tf
+5 190 Td
+(No image, idk how to embeding it... yet) Tj
+Q
+endstream
+endobj
+
+%/Ff 104857 for multiline, /Ff 1 for single line, /Ff 0 for editable 
+%/F 2 hide, 4 show, 6 (2+4) hidden and show 
+%we can encode it to hex /V <hex-text>
+
+7 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [100 470 125 495]
+   /T (collectable) /FT /Tx /V (@) 
+   /Ff 1 /F 4
+   /DA (/Helv 20 Tf 0 g)
+   /Q 0
+>>
+endobj
+
+15 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [100 270 140 300]
+   /T (basket) /FT /Tx /V ([__]) 
+   /Ff 1 /F 4
+   /DA (/Helv 20 Tf 0 g)
+   /Q 0
+>>
+endobj
+
+13 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [280 200 360 230]
+   /T (right) /FT /Btn /Ff 65536
+   /AP << /N 14 0 R >>
+   /A << /JS 10 0 R /S /JavaScript >>
+   /Border [0 0 2]
+   /BS << /W 2 /S /D >>
+   /BC [0 0 1]
+>>
+endobj
+
+14 0 obj
+<< /Length 150 >>
+stream
+q                   % q and Q to save/restore graphics state (ig)
+0 0 0 RG            % Set stroke color to black
+2 w                 % Set line width to 2
+0.5 0.5 80 29 re S  % Draw rectangle (adjust coordinates to match your button size)
+BT 
+/F1 12 Tf 
+30 10 Td 
+(>>>) Tj    %text here
+ET
+Q
+endstream
+endobj
+
+16 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [160 200 240 230]
+   /T (left) /FT /Btn /Ff 65536
+   /AP << /N 17 0 R >>
+   /A << /JS 18 0 R /S /JavaScript >>
+   /Border [0 0 2]
+   /BS << /W 2 /S /D >>
+   /BC [0 0 1]
+>>
+endobj
+
+17 0 obj
+<< /Length 150 >>
+stream
+q                   % q and Q to save/restore graphics state
+0 0 0 RG            % Set stroke color to black
+2 w                 % Set line width to 2
+0.5 0.5 80 29 re S  % Draw rectangle (adjust coordinates to match your button size)
+BT 
+/F1 12 Tf 
+30 10 Td 
+(<<<) Tj    %text here
+ET
+Q
+endstream
+endobj
+
+25 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [100 550 140 575]
+   /T (score-text) /FT /Tx /V (Score: ) 
+   /Ff 1 /F 4
+   /DA (/Helv 12 Tf 0 g)
+   /Q 0
+>>
+endobj
+
+26 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [140 550 250 575]
+   /T (score-point) /FT /Tx /V (0) 
+   /Ff 1 /F 4
+   /DA (/Helv 12 Tf 0 g)
+   /Q 0
+>>
+endobj
+
+90 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [10 570 500 10]
+   /T (start-bg) /FT /Tx /Ff 65536
+   /F 4 /Ff 1
+   /AP << /N 91 0 R >>
+   /Border [0 0 2]
+   /BS << /W 2 /S /D >>
+   /BC [0 0 1]
+>>
+endobj
+
+91 0 obj
+<< /Length 150 >>
+stream
+q
+0 0 1 RG
+1 1 1 rg
+2 w
+0.5 0.5 490 560 re F
+BT
+/F1 12 Tf
+28 10 Td
+(gbg) Tj
+ET
+Q
+endstream
+endobj
+
+92 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [180 390 330 420]
+   /T (start-text) /FT /Tx /V (Press the button to start) 
+   /Ff 1 /F 4
+   /DA (/Helv 14 Tf 0 g)
+   /Q 0
+>>
+endobj
+
+100 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [10 570 110 600]
+   /T (wm) /FT /Tx /V (Made by Dzadafa) 
+   /Ff 1 /F 4
+   /DA (/Helv 10 Tf 0.3 g)
+   /Q 0
+>>
+endobj
+
+4 0 obj
+<< /Type /Annot /Subtype /Widget /Rect [210 350 290 380]
+   /T (start-btn) /FT /Btn /Ff 65536
+   /AP << /N 5 0 R >>
+    /AA << /D 6 0 R >>
+   /Border [0 0 2]
+   /BS << /W 2 /S /D >>
+   /BC [0 0 1]
+>>
+endobj
+
+5 0 obj
+<< /Length 150 >>
+stream
+q                   % q and Q to save/restore graphics state
+0 0 1 RG            % Set stroke color to black
+2 w                 % Set line width to 2
+0.5 0.5 80 29 re S  % Draw rectangle (adjust coordinates to match your button size)
+BT 
+/F1 12 Tf 
+28 10 Td 
+(Start) Tj    %text here
+ET
+Q
+endstream
+endobj
+
+6 0 obj
+<< /S /JavaScript /JS (
+
+var f = this.getField('collectable')
+var ra = f.rect;
+var val = f.value;
+var gapY = ra[1] - ra[3];
+var gapX = ra[2] - ra[0];
+var i = ra[3];
+    
+function VAnimate(maks) {
+    
+    if (i <= maks) {
+
+      var score = this.getField('score-point')
+
+      if (isCollide()){
+         f.value = "";
+        var newX = randomize(100, 400);
+        let randomized = [newX, ra[1], newX + gapX, ra[3]]; 
+        f.rect = randomized;
+        ra = randomized;
+        f.value = val; 
+        i = ra[3]; 
+        score.value = parseInt(score.value) + 1
+      } else {
+         app.alert(`Game Over\nYour score: ${score.value}\n\nRefresh to restart`)
+         return;
+      }
+        
+    }
+
+    let newRect = [ra[0], i + step + gapY, ra[2], i + step];
+    f.value = "";
+    f.rect = newRect;
+    f.value = val;
+    i -= step;
+
+    app.setTimeOut("VAnimate(" + maks + ")", tick);
+}
+
+
+const hideEm = ["start-btn", "start-text", "start-bg"]
+hideAll(hideEm);
+
+app.setTimeOut(`VAnimate(${270})`, 1000)
+
+) >>
+endobj
+
+9 0 obj
+<< >>
+stream
+
+var step = 15;
+var tick = 200;
+
+function randomize(minX, maxX) {
+    let baseValue = Math.floor(Math.random() * (maxX - minX + 1)) + minX;
+    
+    return baseValue
+}
+
+function hideAll(idItems) {
+   for (const id of idItems) {
+      const field = this.getField(id);
+      if (field) {
+         field.hidden = true
+         field.readonly = true
+         field.rect = [0, 0, 1, 1]
+      }
+   }
+}
+
+function HAnimate(maks, left=false) {
+    var f = this.getField('basket')
+    var ra = f.rect;
+    var val = f.value;
+    var gapY = ra[1] - ra[3];
+    var gapX = ra[2] - ra[0];
+    var i = !left? ra[0] : ra[2]
+    
+    let newRect = !left
+                    ? [i + step, ra[1], i + step + gapX, ra[3]] 
+                    : [i - step - gapX, ra[1], i - step, ra[3]];
+    f.value = "";
+    f.rect = newRect;
+    f.value = val;
+}
+
+
+function isCollide(){
+   const movObj = this.getField('collectable')
+   const solidObj = this.getField('basket')
+   var r1 = movObj.rect
+   var r2 = solidObj.rect
+
+   let condition = !(r1[2] < r2[0] || r1[0] > r2[2] || r1[1] < r2[3] || r1[3] > r2[1])
+
+   return condition;
+}
+
+endstream
+endobj
+
+10 0 obj
+<< >>
+stream
+HAnimate(300)
+endstream
+endobj
+
+18 0 obj
+<< >>
+stream
+HAnimate(300, true)
+endstream
+endobj
+
+11 0 obj
+<<
+  /JS 9 0 R
+  /S /JavaScript
+>>
+endobj
+
+300 0 obj
+<< /Title (Game in Disguise) /Author (Dzadafa)>>
+endobj
+
+xref
+0 9
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000102 00000 n 
+0000000196 00000 n 
+0000000312 00000 n 
+0000000434 00000 n 
+0000000571 00000 n 
+0000000724 00000 n 
+
+trailer
+<< /Size 9 /Root 1 0 R /Info 300 0 R>>
+startxref
+796
+%%EOF
