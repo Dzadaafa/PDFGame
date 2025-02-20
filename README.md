@@ -22,7 +22,6 @@ _If the button doesn't work, [click here](https://raw.githubusercontent.com/Dzad
 ## Compatibility
 The interactive PDF works with the following engines:
 - PDFium ( _Chromium-based browsers like Google Chrome, Microsoft Edge, etc._ )
-- PDF.js ( _Firefox_ )
 
 **Note:** *This hasn't been tested on other browsers or engines.*
 
